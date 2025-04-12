@@ -20,6 +20,7 @@ Dieses Projekt demonstriert die Fähigkeit zur strukturierten Backend-Entwicklun
 
 ## ⚙️ Installationsanleitung
 
+```bash
 # Repository klonen
 git clone https://github.com/dein-benutzername/market-insight-analyzer.git
 cd market-insight-analyzer
